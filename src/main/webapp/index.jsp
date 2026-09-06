@@ -2,7 +2,7 @@
 <body>
 
 
-<h2><%= "Hello My World feature" %></h2>
+<h2><%= "Hello My World feature main" %></h2>
 
 
 </body>
